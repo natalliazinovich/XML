@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<root>
+    <BugReport>
+        <Title>'WidgetIcon' widget size values widget height and width set to '0'</Title>
+        <Bug_id>102</Bug_id>
+        <TelegramNickname>@natalli</TelegramNickname>
+        <Severity>Minor</Severity>
+        <Priority>low</Priority>
+        <Environment>RedmiNote 8 M1908C3JG Android 10</Environment>
+        <Precondition>Open the App</Precondition>
+        <STR>1) Click button 'Add widget'</STR>
+        <STR>2) Hide application</STR>
+        <STR>3) Look the widget icon</STR>
+        <AR>parameters 'Height' (H) and 'Width' (W) are set to '0'</AR>
+        <ER>the parameters 'Height' (H) and 'Width' (W) are in values in relation to the screen resolution settings that the user has set</ER>
+        <Attachments>https://drive.google.com/file/d/1vQ_dc2Dkg2FlycsTAk9e5Qx1jw9_6N3T/view?usp=sharing</Attachments>
+    </BugReport>
+</root>
